@@ -24,6 +24,13 @@ Dependencies:
 * streamlit
 * eli5
 
+![WhatsApp Image 2023-07-06 at 6 38 52 PM](https://github.com/Dubeyrock/software-developer-salary-machine-learning/assets/96882359/bfaf284a-85ed-48b3-a2e2-e8156d55e39f)
+
+
+![WhatsApp Image 2023-07-06 at 6 38 54 PM](https://github.com/Dubeyrock/software-developer-salary-machine-learning/assets/96882359/fd2f9e3a-18b6-48e5-a143-4613583fd2c6)
+
+![WhatsApp Image 2023-07-06 at 6 38 54 PM (1)](https://github.com/Dubeyrock/software-developer-salary-machine-learning/assets/96882359/8e9923e9-a84f-483b-a9b3-ebb8a4a875ff)
+
 
 
 
