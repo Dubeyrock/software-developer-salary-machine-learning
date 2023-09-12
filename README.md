@@ -1,4 +1,4 @@
-# Adult Census Income Prediction
+# software-developer-salary-machine-learning
 Productionized Machine Learning Model for Income Prediction
 
 #### In this project we built a fully productionized machine learning web application for salary prediction based on various parameters.
